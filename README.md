@@ -1,6 +1,6 @@
 #  Douglas Silva
 
-**`Sotfware Engineer`**
+**`Software Engineer`**
 
 🎓 Bacharel em Análise de Sistemas + Especialista em Eng. de Software e Seg. da Informação. <br/>
 💻 +5 anos transformando ideias em código (APIs, Server-side, Web e Mobile). <br/>
